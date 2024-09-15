@@ -1,4 +1,6 @@
-
+The Market Management System is a comprehensive web application designed to streamline market operations through an integrated approach to both frontend and backend development. This project aims to provide a user-friendly platform with robust features, primarily centered around a secure and efficient login system.
+The main aim of this project is a secured login system that gets the user information stored in a MySQL database and access it and checks the record for further entry. 
+While the front end is made by TKinter module with gives this projects its visual appearance ....
 
 https://github.com/user-attachments/assets/e2c4369e-7cdd-473a-a61b-5c9e997e4463
 
